@@ -1,44 +1,38 @@
 <div align="right">
-<img src="https://cdna.artstation.com/p/assets/images/images/052/141/832/original/johan-cediel-rodriguez-pixel-art-take-008.gif?1659036879" align="right" height="90" width="90" />
+<img src="https://cdna.artstation.com/p/assets/images/images/052/141/832/original/johan-cediel-rodriguez-pixel-art-take-008.gif?1659036879" align="right" height="80" width="75" />
 </div>  
   
 
-# Hola! Mi nombre es Santi Guevara   
+# ¡Hola! Mi nombre es Santiago Guevara   
   
 
-Soy un programador Full-Stack orientado a Front-End iniciando mi carrera en el mundo IT.  
+Son programador Full-Stack orientado a Front-End, iniciando mi carrera en el mundo IT.  
   
 
-También soy:  
+## Formación  
   
 
-- Guitarrista 🎸  
+- Primer Etapa - Argentina Programa.  
   
 
-- Streamer 🎮  
+- Phyton Inicial, Programación Orientada a Objetos, Django - Arrow Academy  
   
 
-- Creador de contenido 📹  
+- Full-Stack Bootcamp - SoyHenry  
   
 
-- Apasionado por la tecnología 🖥️  
-  
-
-Me formé a lo largo de 2023 y 2024 en el bootcamp SoyHenry, el cual he terminado recientemente.  
-  
-
-## Proyectos destacados:  
+## Proyectos destacados  
   
 
 ### [Olimpus Shop APP](https://olimpus-shop.vercel.app) 💪  
   
 
-E-Commerce deportivo, en el cual estuve trabajando en el área Front-End, utilizando NextJS y Typescript como principales tecnologías.  
+E-Commerce deportivo, en el que trabajé como Front-End. Utilicé NextJS y Typescript como principales tecnologías.  
   
 
 <br/>  
 
-## Tecnologías que uso  
+## Tecnologías  
   
 
 <div align="center">  
@@ -59,8 +53,9 @@ E-Commerce deportivo, en el cual estuve trabajando en el área Front-End, utiliz
 
 <br/>  
 
+## Contáctame  
+  
 
-## Connect with me  
 <div align="center">
 <a href="https://github.com/sguevaraolie" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -79,8 +74,9 @@ E-Commerce deportivo, en el cual estuve trabajando en el área Front-End, utiliz
 
 <br/>  
 
+## Stats de Github  
+  
 
-## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sguevaraolie&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
